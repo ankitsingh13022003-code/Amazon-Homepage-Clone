@@ -44,6 +44,3 @@ This project helped me practice layout building, Flexbox, structured UI design, 
 - **Responsive Design**<br>
 - **Google Fonts / Icons (optional)**<br>
 
-<br>
-
-## 📂 Folder Structure
